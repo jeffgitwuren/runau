@@ -9,7 +9,7 @@ This project uses the Win32 apis to spawn a new process in that session. This al
 
 ## Usage
 #### Command Line
-You can make it work with almost every language by command line. Just [click here to download builded executable file](bin/debug/runau.exe), and use it like this:
+You can make it work with almost every language by command line. Just [click here to download builded executable file](bin/Debug/runau.exe), and use it like this:
 ```
 rem Run calc.exe
 runau calc.exe
