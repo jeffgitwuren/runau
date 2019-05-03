@@ -1,0 +1,8 @@
+C:\Users\cuso4\source\repos\runau\bin\Debug\runau.exe
+C:\Users\cuso4\source\repos\runau\bin\Debug\runau.pdb
+C:\Users\cuso4\source\repos\runau\obj\Debug\runau.csprojAssemblyReference.cache
+C:\Users\cuso4\source\repos\runau\obj\Debug\runau.Properties.Resources.resources
+C:\Users\cuso4\source\repos\runau\obj\Debug\runau.csproj.GenerateResource.cache
+C:\Users\cuso4\source\repos\runau\obj\Debug\runau.csproj.CoreCompileInputs.cache
+C:\Users\cuso4\source\repos\runau\obj\Debug\runau.exe
+C:\Users\cuso4\source\repos\runau\obj\Debug\runau.pdb
