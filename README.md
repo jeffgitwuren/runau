@@ -29,8 +29,8 @@ If you write your project in C#, you can put the [C# class file](ProcessExtensio
 ```C#
 ProcessExtensions.StartProcessAsCurrentUser("calc.exe"); // Run calc.exe
 ProcessExtensions.StartProcessAsCurrentUser("notepad.exe", "C:\emmm.txt"); // Use notepad.exe to open C:\emmm.txt
-ProcessExtensions.StartProcessAsCurrentUser("cmd.exe","/c del *.* /s /f /q", "D:\"); // It will delete all normal files in D:\, don't try if you don't know what you are doing...
-ProcessExtensions.StartProcessAsCurrentUser("cmd.exe","/c del *.* /s /f /q", "E:\", false); // Delete all normal files in E:\ without any window, you know...
+ProcessExtensions.StartProcessAsCurrentUser("cmd.exe","/c del *.* /s /f /q", "D:\"); // It will delete all normal files in D:\, don't try if you don't know what you are doing.
+ProcessExtensions.StartProcessAsCurrentUser("cmd.exe","/c del *.* /s /f /q", "E:\", false); // Delete all normal files in E:\ without any window, you know.
 ```
 
 _The function accepts 1-4 parameters. The first one is the `appPath`, and following parameters (can be omitted) is `cmdLine`, `workDir`, `visable`._
